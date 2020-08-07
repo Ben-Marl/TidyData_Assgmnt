@@ -18,7 +18,7 @@ The TidyData_Assgnmnt contains the following files:
 
 3. tidy data obtained
 
-4.code book
+4. Code Book
 
 
 
